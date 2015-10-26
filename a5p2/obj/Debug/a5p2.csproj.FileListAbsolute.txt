@@ -1,0 +1,6 @@
+F:\mpetros2_assig5\a5p2\bin\a5p2.dll.config
+F:\mpetros2_assig5\a5p2\bin\a5p2.dll
+F:\mpetros2_assig5\a5p2\bin\a5p2.pdb
+F:\mpetros2_assig5\a5p2\obj\Debug\a5p2.csprojResolveAssemblyReference.cache
+F:\mpetros2_assig5\a5p2\obj\Debug\a5p2.dll
+F:\mpetros2_assig5\a5p2\obj\Debug\a5p2.pdb

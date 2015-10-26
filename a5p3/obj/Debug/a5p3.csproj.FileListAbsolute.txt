@@ -1,0 +1,8 @@
+F:\mpetros2_assig5\a5p3\bin\a5p3.dll.config
+F:\mpetros2_assig5\a5p3\bin\a5p3.dll
+F:\mpetros2_assig5\a5p3\bin\a5p3.pdb
+F:\mpetros2_assig5\a5p3\obj\Debug\a5p3.csproj.GenerateResource.Cache
+F:\mpetros2_assig5\a5p3\obj\Debug\a5p3.dll
+F:\mpetros2_assig5\a5p3\obj\Debug\a5p3.pdb
+F:\mpetros2_assig5\a5p3\obj\Debug\a5p3.Service1.resources
+F:\mpetros2_assig5\a5p3\obj\Debug\a5p3.csprojResolveAssemblyReference.cache

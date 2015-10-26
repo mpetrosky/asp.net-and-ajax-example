@@ -1,0 +1,44 @@
+﻿<html>
+<head>
+    <title>Insert into table</title>
+</head>
+<body>
+    <div>
+        <h1>
+            Insert into table
+        </h1>
+    </div>
+
+
+    <form action="loadtable.aspx" method="post">
+
+        <h1>
+            Enter Database Name:
+        </h1>
+        <input type="text" name="databasename" size="30" />
+        <br />
+        <h1>
+            Enter Username:
+        </h1>
+        <input type="text" name="username" size="30" />
+        <br />
+        <h1>
+            Enter Password:
+        </h1>
+        <input type="password" name="password" size="30" />
+        <br />
+        <h1>
+            Enter Table Name:
+        </h1>
+        <input type="text" name="tablename" size="30" /><br/>
+        <h2>Please Enter Number of Records to be inserted:</h2>
+        <p>
+            <input type="text" name="nrecs" size="30" />
+        </p>
+        <p>
+            <input type="submit" value="Submit size of the batch" />
+        </p>
+    </form>
+
+</body>
+</html>
